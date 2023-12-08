@@ -8,12 +8,12 @@ In order to reduce time taken and experience necessary on the previously mention
 
 ## Features
 
+- [x] Looks up public IP addresses' reputation
 - [ ] Looks up process mutexes against known malware
 - [ ] Identifies third-party processes 
 - [ ] Searches for common attack vectors
   - [ ] Hidden .exe file extension (ex. .doc.exe)
   - [ ] Right-to-left control character use to hide the true extension (ex. `payload.[U+202e]txt.exe` becomes `payload.‮(txt.exe‭`
-- [ ] Looks up public IP addresses' reputation
 - [ ] Flags suspicious files in system directories
 
 ## How to run
